@@ -1,0 +1,46 @@
+C:\Users\ofeke\source\repos\TICTACTOE\bin\Debug\TICTACTOE.exe.config
+C:\Users\ofeke\source\repos\TICTACTOE\bin\Debug\TICTACTOE.exe
+C:\Users\ofeke\source\repos\TICTACTOE\bin\Debug\TICTACTOE.pdb
+C:\Users\ofeke\source\repos\TICTACTOE\obj\Debug\TICTACTOE.csprojAssemblyReference.cache
+C:\Users\ofeke\source\repos\TICTACTOE\obj\Debug\TICTACTOE.Form1.resources
+C:\Users\ofeke\source\repos\TICTACTOE\obj\Debug\TICTACTOE.Properties.Resources.resources
+C:\Users\ofeke\source\repos\TICTACTOE\obj\Debug\TICTACTOE.csproj.GenerateResource.cache
+C:\Users\ofeke\source\repos\TICTACTOE\obj\Debug\TICTACTOE.exe
+C:\Users\ofeke\source\repos\TICTACTOE\obj\Debug\TICTACTOE.pdb
+F:\My Own Programming Projects\TICTACTOE\bin\Debug\TICTACTOE.exe.config
+F:\My Own Programming Projects\TICTACTOE\bin\Debug\TICTACTOE.exe
+F:\My Own Programming Projects\TICTACTOE\bin\Debug\TICTACTOE.pdb
+F:\My Own Programming Projects\TICTACTOE\obj\Debug\TICTACTOE.csprojAssemblyReference.cache
+F:\My Own Programming Projects\TICTACTOE\obj\Debug\TICTACTOE.Form1.resources
+F:\My Own Programming Projects\TICTACTOE\obj\Debug\TICTACTOE.Properties.Resources.resources
+F:\My Own Programming Projects\TICTACTOE\obj\Debug\TICTACTOE.csproj.GenerateResource.cache
+F:\My Own Programming Projects\TICTACTOE\obj\Debug\TICTACTOE.exe
+F:\My Own Programming Projects\TICTACTOE\obj\Debug\TICTACTOE.pdb
+F:\My Own Programming Projects\C# Projects\TICTACTOE\bin\Debug\TICTACTOE.exe.config
+F:\My Own Programming Projects\C# Projects\TICTACTOE\bin\Debug\TICTACTOE.exe
+F:\My Own Programming Projects\C# Projects\TICTACTOE\bin\Debug\TICTACTOE.pdb
+F:\My Own Programming Projects\C# Projects\TICTACTOE\obj\Debug\TICTACTOE.csprojAssemblyReference.cache
+F:\My Own Programming Projects\C# Projects\TICTACTOE\obj\Debug\TICTACTOE.Form1.resources
+F:\My Own Programming Projects\C# Projects\TICTACTOE\obj\Debug\TICTACTOE.Properties.Resources.resources
+F:\My Own Programming Projects\C# Projects\TICTACTOE\obj\Debug\TICTACTOE.csproj.GenerateResource.cache
+F:\My Own Programming Projects\C# Projects\TICTACTOE\obj\Debug\TICTACTOE.exe
+F:\My Own Programming Projects\C# Projects\TICTACTOE\obj\Debug\TICTACTOE.pdb
+D:\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.csprojAssemblyReference.cache
+D:\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.Form1.resources
+D:\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.Properties.Resources.resources
+D:\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.csproj.GenerateResource.cache
+D:\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.exe
+D:\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.pdb
+D:\Projects C#\TICTACTOE\bin\Debug\TICTACTOE.exe.config
+D:\Projects C#\TICTACTOE\bin\Debug\TICTACTOE.exe
+D:\Projects C#\TICTACTOE\bin\Debug\TICTACTOE.pdb
+D:\Programming\Projects C#\TICTACTOE\bin\Debug\TICTACTOE.exe.config
+D:\Programming\Projects C#\TICTACTOE\bin\Debug\TICTACTOE.exe
+D:\Programming\Projects C#\TICTACTOE\bin\Debug\TICTACTOE.pdb
+D:\Programming\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.csprojAssemblyReference.cache
+D:\Programming\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.Form1.resources
+D:\Programming\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.Properties.Resources.resources
+D:\Programming\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.csproj.GenerateResource.cache
+D:\Programming\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.csproj.CoreCompileInputs.cache
+D:\Programming\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.exe
+D:\Programming\Projects C#\TICTACTOE\obj\Debug\TICTACTOE.pdb
