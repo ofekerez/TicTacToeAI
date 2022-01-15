@@ -9,18 +9,13 @@ namespace TICTACTOE
     class Board
     {
 		private char[] board = new char[9];
-		public Board(char[] board)
-		{
-			this.board = board;
-		}
+		public Board(char[] board) { this.board = board;}
+		
 
 		public char[] InitializeBoard(char[] board)
 		{
 			for (int i = 0; i < 9; i++)
-			{
 				this.board[i] = board[i];
-			}
-
 			return this.board;
 		}
 
@@ -34,21 +29,9 @@ namespace TICTACTOE
 
 			return false;
 		}
-
-		public char[] Getboard()
-		{
-			return board;
-		}
-
-		public void SetBoard(char[] board)
-		{
-			this.board = board;
-		}
-
-		public void SetBoardPosition(int position, char player)
-		{
-			this.board[position] = player;
-		}
+		public char[] Getboard() => this.board;
+		public void SetBoard(char[] board) {this.board = board;}
+		public void SetBoardPosition(int position, char player) {this.board[position] = player;}
 	}
 }
 
